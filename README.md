@@ -49,6 +49,7 @@ flutter run
 
 Firebase is connected to project `flutter-final-f2191`.
 Cloud Firestore must be enabled in Firebase Console for order history.
+Local favorites stored in SQLite Database (locally) while Order history is stored in Cloud Firestore (remotely).
 
 ## Used Packages
 
